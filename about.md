@@ -11,4 +11,4 @@ Flash, crash, bubbles, cryptos, options, forex, stocks, futures, commodities, bo
 
 ### WhatsApp Group
 
-https://chat.whatsapp.com/74IdyLuUKfhKqUmPgfLSDl
+WhatsApp User Click [here] to join(https://chat.whatsapp.com/74IdyLuUKfhKqUmPgfLSDl)
