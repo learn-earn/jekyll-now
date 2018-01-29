@@ -23,6 +23,9 @@ After a week long prediction and following last Friday's meeting, I've decided t
 ![0.9369]({{site.baseurl}}/images/0.9369.png)
 ![0.9361]({{site.baseurl}}/images/0.9361.png)
 
-**USDJPY** | 109.4150 | 109.1667 | 109.0425 | 107.9250 | 108.1733 | 108.2975 
+**USDJPY** | 109.4150 | **109.1667** | **109.0425** | 107.9250 | 108.1733 | 108.2975 
+
+![109.1667]({{site.baseurl}}/images/109.1667.png)
+![109.042]({{site.baseurl}}/images/109.042.png)
 
 **AUDUSD** | 0.8097 | 0.8164 | 0.8141 | 0.8130 | 0.8031 | 0.8053 | 0.8064
