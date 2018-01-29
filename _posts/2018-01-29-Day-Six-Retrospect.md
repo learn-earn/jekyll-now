@@ -32,3 +32,5 @@ After a week long prediction and following last Friday's meeting, I've decided t
 
 ![0.8097]({{site.baseurl}}/images/0.8097.png)
 ![0.8130]({{site.baseurl}}/images/0.8130.png)
+
+Hope you find them interesting and useful. See you next time.
