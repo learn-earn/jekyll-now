@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Day Six Retrospect
 excerpt: A picture is worth a thousand of words...
