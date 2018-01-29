@@ -17,8 +17,11 @@ After a week long prediction and following last Friday's meeting, I've decided t
 **EURUSD** | 1.2487 | 1.2466 | 1.2455 | 1.2362 | 1.2382 | **1.2393**
 ![1.2393]({{site.baseurl}}/images/1.23931.png)
 
+**USDCHF** | **0.9385** | **0.9369** | **0.9361** | 0.9289 | 0.9305 | 0.9313 
 
-**USDCHF** | 0.9385 | 0.9369 | 0.9361 | 0.9289 | 0.9305 | 0.9313 
+![0.9385]({{site.baseurl}}/images/0.9385.png)
+![0.9369]({{site.baseurl}}/images/0.9369.png)
+![0.9361]({{site.baseurl}}/images/0.9361.png)
 
 **USDJPY** | 109.4150 | 109.1667 | 109.0425 | 107.9250 | 108.1733 | 108.2975 
 
