@@ -28,4 +28,7 @@ After a week long prediction and following last Friday's meeting, I've decided t
 ![109.1667]({{site.baseurl}}/images/109.1667.png)
 ![109.042]({{site.baseurl}}/images/109.042.png)
 
-**AUDUSD** | 0.8097 | 0.8164 | 0.8141 | 0.8130 | 0.8031 | 0.8053 | 0.8064
+**AUDUSD** | **0.8097** | 0.8164 | 0.8141 | **0.8130** | 0.8031 | 0.8053 | 0.8064
+
+![0.8097]({{site.baseurl}}/images/0.8097.png)
+![0.8130]({{site.baseurl}}/images/0.8130.png)
