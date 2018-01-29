@@ -2,6 +2,7 @@
 published: false
 layout: post
 title: Day Six Retrospect
+excerpt: A picture is worth a thousand of words...
 ---
 ### _"A picture is worth a thousand of words."_
 
