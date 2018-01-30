@@ -1,5 +1,7 @@
 ---
 published: false
+title: Day Seven Retrospect
+layout: post
 ---
 
 GBPUSD	1.4073	1.4141	1.4118	1.4107	1.4005	1.4028	1.4039	1.4083
