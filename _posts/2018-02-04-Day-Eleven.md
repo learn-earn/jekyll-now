@@ -1,5 +1,7 @@
 ---
 published: false
+title: Day Eleven
+layout: post
 ---
 Today is 4 February 2018 and we are making predictions for 5 February 2018 and reviewing what happened last Friday.
 
