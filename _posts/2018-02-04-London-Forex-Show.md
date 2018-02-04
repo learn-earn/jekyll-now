@@ -1,7 +1,5 @@
 ---
 published: false
-title: London Forex Show
-layout: post
 ---
 ### Friday 23 February 2018
 
