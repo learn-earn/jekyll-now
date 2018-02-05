@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 ### Friday 23 February 2018
 
