@@ -27,7 +27,7 @@ Opened at 109.32 and went down to 109.10. It went up to 109.37 and went down to 
 
 Predicted numbers 109.72, 109.65 and 109.07 were useful from yesterdays.
 
-###AUDUSD  
+### AUDUSD  
 Opened at 0.7816, came down to 0.7810, 0.7830. Then came down to 0.7802 and went up to 0.7841 reaching the day's high but came down to 0.7802, 0.7816 then came down to 0.7785 and went up to 0.7827 again came down to 0.7780 and went up to 0.7811 and came down to 0.7775 reaching the day's low. Finally it closed at 0.7785.
 
 Predicted numbers 0.7844, 0.7790 and 0.7775 were useful from yesterdays.
