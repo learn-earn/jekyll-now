@@ -1,3 +1,11 @@
+---
+published: true
+layout: post
+title: Day Sixteen
+excerpt: >-
+  Welcome to the day 16 of the blog. This is being written on the 11 February 2018 Sunday. And this will be the second week in the month of February 2018.
+---
+
 Dear Friends,
 Interested in Forex Trading and financial markets?
 
