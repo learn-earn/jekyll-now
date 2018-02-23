@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Day Twenty Three
+title: Day Twenty Five
 ---
 
 **GBPUSD** 1.3954    1.4021    1.3998    1.3987    1.3888    1.3910    1.3921    1.3932  
