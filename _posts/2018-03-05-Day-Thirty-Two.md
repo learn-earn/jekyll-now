@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Day Thirty Two
 excerpt: >-
-The total pips moved was around 1010 pips.
+  The total pips moved was around 1010 pips.
 ---
 The total pips moved was around 1010 pips.
 
