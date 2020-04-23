@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 First of all, thanks to Brian from Lets Build That App. I started building complex Views using nested UICollectionView inside UICollectionView. And also it got me thinking, how do I apply the same technics I've used with UITableView to achieve auto cell height on UICollectionView with flowlayout.
 
@@ -65,4 +65,3 @@ let layout = UICollectionViewCompositionalLayout { [weak self] (sectionIndex: In
 ```` 
 
 Combination of using `.estimated(44)` and setting up appropriate Auto Layout constraints enable us to solve the auto-sizing cell challenge.
-
