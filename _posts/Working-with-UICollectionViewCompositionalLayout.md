@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+title: My first time working with UICollectionViewCompositionalLayout
+excerpt: >-
 ---
 First of all, thanks to Brian from Lets Build That App. I started building complex Views using nested UICollectionView inside UICollectionView. And also it got me thinking, how do I apply the same technics I've used with UITableView to achieve auto cell height on UICollectionView with flowlayout.
 
