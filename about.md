@@ -3,12 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-Flash, crash, bubbles, cryptos, options, forex, stocks, futures, commodities, bonds, etfs and other financial instruments looked at ........ daily for fun and knowledge
+Learning is a lifetime event.
 
-### Contact me
-
-[learn.earn888@gmail.com](mailto:learn.earn888@gmail.com)
-
-### WhatsApp Group
-
-WhatsApp User Click [here](https://chat.whatsapp.com/74IdyLuUKfhKqUmPgfLSDl) to join
+I am blogging everything I've learnt about software development. Currently I am working as an iOS app developer.
