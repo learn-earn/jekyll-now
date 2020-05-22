@@ -3,8 +3,7 @@ published: true
 layout: post
 title: How to apply shadow to a round cornered UIView with subviews contrainted to edges
 excerpt: >-
-  I was googling how to apply shadow to a round cornered UIView, and  
-inspired from this...
+  I was googling how to apply shadow to a round cornered UIView, and inspired from this...
 ---
 I was googling how to apply shadow to a round cornered UIView, and  
 inspired from this [post](https://medium.com/bytes-of-bits/swift-tips-adding-rounded-corners-and-shadows-to-a-uiview-691f67b83e4a).
