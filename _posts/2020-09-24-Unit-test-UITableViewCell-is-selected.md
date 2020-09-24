@@ -8,8 +8,8 @@ excerpt: >-
 This could be a very tiny problem, or something I missed. But I still like to documement it for future reference.
 
 ## What is the problem I am solving? (the requirement)
-the `TagListsViewController` use UITableView to display a list of tags. 
-And if the condition is met, we need to UITableView row to be selected.
+the `TagListsViewController` use `UITableView` to display a list of tags. 
+And if the condition is met, we need `UITableView` row to be selected.
 
 ### production code as below
 
