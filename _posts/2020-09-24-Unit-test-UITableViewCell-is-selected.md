@@ -7,7 +7,7 @@ excerpt: >-
 ---
 This could be a very tiny problem, or something I missed. But I still like to documement it for future reference.
 
-First of all, I'd like to thank Caio and Mike from Essential Developers for their work and help. I have learnt this practice from them. If you'd like to learn more from them like me, please check the link here - https://www.essentialdeveloper.com
+First of all, I'd like to thank Caio and Mike from Essential Developers for their work and help. I have learnt this practice from them. If you'd like to learn more from them like me, please check the link here - [https://www.essentialdeveloper.com](https://www.essentialdeveloper.com)
 
 ## What is the problem I am solving? (the requirement)
 the `TagListsViewController` use `UITableView` to display a list of tags. 
