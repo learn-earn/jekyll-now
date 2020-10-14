@@ -8,7 +8,7 @@ excerpt: >-
 
 In SwiftUI, views are struct, and struct is immutable. So we cannot change the value of its properties.
 
-1. What do we do if we need to change the property values in view using SwiftUI? 
+### What do we do if we need to change the property values in view using SwiftUI? 
 
 SwiftUI allows us using `@State` property wrapper to turn the immutable property to mutable. Recommendation from Apple,
 properties with `@State` property wrapper are used for simple values such as String, int, boolean. And we should only allow 
@@ -16,12 +16,12 @@ the view to access these properties. So we usually mark these properties `privat
 
 Once the value of these properties with `@State` changes, SwiftUI will notify the view to reload the entire screen.
 
-2. How do we update those properties values changes when the values are changed by the UI?
+### How do we update those properties values changes when the values are changed by the UI?
 
 In SwiftUI, we prepend `$` to the property, to achieve this. The property value changes will notify the UI to update, and 
 when UI is changing, it also updates the property, this is called 2 way binding.
 
-3. Another property wrapper called `@EnvironmentObject`, when do we use it?
+### Another property wrapper called `@EnvironmentObject`, when do we use it?
 
 `@State` is used for the view which owns the property. If we want to pass the property value on to another view, then we will use
 the `@EnvironmentObject`. 
@@ -29,7 +29,7 @@ the `@EnvironmentObject`.
 SwiftUI creates a key-value store in the global environment, before we can access it from another view, we will need to create it and add to the global environment.
 Not all the views can access the value of `@EnvironmentObject`, only its children views can access it.
 
-4. The third property wrapper we uses in SwiftUI is `@ObjectBinding`. 
+### The third property wrapper we uses in SwiftUI is `@ObjectBinding`. 
 
 We use this to share complex properties like custom types, usually reference type in many views.
 
