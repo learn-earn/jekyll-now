@@ -5,7 +5,6 @@ title: What I learnt about how SwiftUI managing State
 excerpt: >-
   What do we do if we need to change the property values in view using SwiftUI? 
 ---
-## What I learnt about how SwiftUI managing State
 
 In SwiftUI, views are struct, and struct is immutable. So we cannot change the value of its properties.
 
